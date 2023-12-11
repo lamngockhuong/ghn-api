@@ -1,2 +1,2 @@
 # ghn-api
-GHN (Giao Hang Nhanh) API wrapper
+GHN (GiaoHangNhanh) API wrapper
